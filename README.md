@@ -48,4 +48,4 @@ LearnPath AI is a sophisticated Course Recommendation System that uses semantic 
 3. Open `http://localhost:5000` in your browser.
 
 ---
-*Developed as a Capstone Project by Hamza Abu Saleh.*
+*Developed as a Capstone Project by Aon Tarawneh and Hamza Abu Saleh.*
